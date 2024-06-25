@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  base: './',
+  base: '/expectativa-siembra-documentation/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
