@@ -23,7 +23,7 @@ import MainLayout from '@/layouts/MainLayout.vue'
                 The <span class="font-semibold">transform_mappings</span> method specifies how to rename and cast columns 
                 in the extracted. This aligns the data with the schema of the destination table.
             </p> 
-            <iframe frameborder="0" scrolling="no" style="width:100%; height:544px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2Fderas16%2FPolarsprocesamiento%2Fblob%2Fmain%2Fsrc%2Fcatalog_tables%2Fgranos_basicos.py&style=tomorrow-night-blue&type=code&showBorder=on&showLineNumbers=on&showFullPath=on&showCopy=on"></iframe>
+            <iframe frameborder="0" scrolling="no" style="width:100%; height:586px;" allow="clipboard-write" src="https://emgithub.com/iframe.html?target=https%3A%2F%2Fgithub.com%2Fderas16%2FPolarsprocesamiento%2Fblob%2Fmain%2Fsrc%2Fcatalog_tables%2Fgranos_basicos.py&style=tomorrow-night-blue&type=code&showBorder=on&showLineNumbers=on&showFullPath=on&showCopy=on"></iframe>
         </template>
     </MainLayout>
 </template>
